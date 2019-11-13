@@ -1,0 +1,19 @@
+{
+  "name": "mycodeblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdoza5/myCodeBlog.git"
+  },
+  "author": "Gerardo Mendoza Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdoza5/myCodeBlog/issues"
+  },
+  "homepage": "https://github.com/gdoza5/myCodeBlog#readme"
+}
